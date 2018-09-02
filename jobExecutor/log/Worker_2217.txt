@@ -1,0 +1,3 @@
+Κυρ 29 Απρ 2018 09:23:18 μμ EEST: Worker Created!
+Κυρ 29 Απρ 2018 09:23:31 μμ EEST : /search : ask  : datasets/home/downloads/readme.txt : datasets/home/downloads/smallDataset.txt
+Κυρ 29 Απρ 2018 09:23:44 μμ EEST: Exited!

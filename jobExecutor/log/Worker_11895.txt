@@ -1,0 +1,3 @@
+: Worker Created!
+ : /search : Captain  : save_dir/root_dir/site1/page1_633.html : save_dir/root_dir/site1/page1_3989.html : save_dir/root_dir/site1/page1_11612.html : save_dir/root_dir/site2/page2_668.html : save_dir/root_dir/site2/page2_24101.html : save_dir/root_dir/site2/page2_4291.html
+ : /search : arms  : save_dir/root_dir/site1/page1_633.html : save_dir/root_dir/site1/page1_3989.html : save_dir/root_dir/site1/page1_11612.html

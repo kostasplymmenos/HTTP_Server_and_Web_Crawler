@@ -1,0 +1,3 @@
+: Worker Created!
+ : /search : arms  : save_dir/root_dir/site4/page4_18545.html : save_dir/root_dir/site4/page4_30416.html : save_dir/root_dir/site4/page4_25960.html : save_dir/root_dir/site2/page2_24101.html : save_dir/root_dir/site2/page2_4291.html
+ : /search : quartz  Not Found

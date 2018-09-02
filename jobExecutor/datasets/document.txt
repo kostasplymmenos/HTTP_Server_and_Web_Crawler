@@ -1,0 +1,5 @@
+datasets/tmp/dump
+datasets/home/documents
+datasets/home/downloads
+datasets/usr/settings
+datasets/usr/programfiles
